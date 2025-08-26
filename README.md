@@ -10,7 +10,7 @@ This repository demonstrates how to extract correct citations from Gemini API re
 
 Here’s the high-level flow of how citation extraction works:
 
-![Citation Flow](flow_diagram.jpg)
+![Citation Flow](Flow_Diagram.jpg)
 
 ---
 
